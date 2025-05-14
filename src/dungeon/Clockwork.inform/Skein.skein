@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1076">
+    <generator>Inform Mac Client (Inform version 1.82/6.41/10.1.2)</generator>
+    <item nodeId="node-1076">
+        <command xml:space="preserve">Clockwork</command>
+        <result xml:space="preserve">
+
+
+
+Clockwork Descent
+An Interactive Fiction by Andrew Brookins
+Release 1 / Serial number 250509 / Inform 7 v10.1.2 / D
+
+Aerial Platform
+You stand on a wind-swept sky dock atop a flying clockwork airship platform attached to the tower. Gears whirr, propellers spin, and steam vents hiss around you. A dirigible is moored to a spire to the east. A cargo crane stands nearby, currently misaligned, blocking a large elevator hatch in the floor. A narrow metal gantry extends toward the tower's edge, creaking ominously.
+
+A battered metal toolbox, likely holding useful tools.
+
+A reinforced wooden crate stamped with the airship's insignia.
+
+A small clockwork automaton tinkerer clings to the gantry, its right leg hinge loose.
+
+You can also see an elevator hatch, a crane, the Raven and a Steam Valve here.
+
+You can go down through the elevator hatch (closed) from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1081"></child>
+            <child nodeId="node-1079"></child>
+        </children>
+    </item>
+    <item nodeId="node-1079">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1080"></child>
+        </children>
+    </item>
+    <item nodeId="node-1080">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">The metal groans under your weight! The gantry buckles and you plunge through a trapdoor in the floor! -2
+Workshop
+Beneath the platform lies a dimly lit workshop, echoing with the ring of metal on metal.
+
+You can see an elevator hatch here.
+
+You can go up through the elevator hatch (closed) to Aerial Platform from here.
+
+[Your score has just gone down by two points.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1081">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">Workshop
+Beneath the platform lies a dimly lit workshop, echoing with the ring of metal on metal.
+
+You can see an elevator hatch here.
+
+You can go up through the elevator hatch (closed) to Aerial Platform from here.
+
+
+
+    *** The metal groans under your weight! The gantry buckles and you plunge through a trapdoor in the floor! ***
+
+
+In that game you scored -10 out of a possible 26, in 1 turn.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
