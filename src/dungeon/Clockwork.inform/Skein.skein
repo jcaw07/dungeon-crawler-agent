@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1076">
+<Skein rootNode="node-1093">
     <generator>Inform Mac Client (Inform version 1.82/6.41/10.1.2)</generator>
-    <item nodeId="node-1076">
+    <item nodeId="node-1093">
         <command xml:space="preserve">Clockwork</command>
         <result xml:space="preserve">
 
@@ -27,20 +27,20 @@ You can go down through the elevator hatch (closed) from here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1081"></child>
-            <child nodeId="node-1079"></child>
+        <children><child nodeId="node-1096"></child>
+            <child nodeId="node-1094"></child>
         </children>
     </item>
-    <item nodeId="node-1079">
+    <item nodeId="node-1094">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1080"></child>
+        <children><child nodeId="node-1095"></child>
         </children>
     </item>
-    <item nodeId="node-1080">
+    <item nodeId="node-1095">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">The metal groans under your weight! The gantry buckles and you plunge through a trapdoor in the floor! -2
 Workshop
@@ -55,7 +55,7 @@ You can go up through the elevator hatch (closed) to Aerial Platform from here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1081">
+    <item nodeId="node-1096">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">Workshop
 Beneath the platform lies a dimly lit workshop, echoing with the ring of metal on metal.
