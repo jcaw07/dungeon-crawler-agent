@@ -59,3 +59,9 @@ venv.bak/
 .Trashes
 Thumbs.db
 src/dungeon/Clockwork.inform/Build/Debug log.txt
+
+# Docker
+~/.docker/
+.docker/
+docker.env
+*.dockerignore

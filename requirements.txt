@@ -1,0 +1,7 @@
+redis
+textworld
+langchain
+langchain_core
+langchain_openai
+langgraph
+openai

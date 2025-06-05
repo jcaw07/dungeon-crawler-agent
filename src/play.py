@@ -15,6 +15,10 @@ from langchain_core.tools import tool
 
 from redis import Redis
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 class State(MessagesState):
     obs: str
