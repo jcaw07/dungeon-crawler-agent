@@ -65,3 +65,12 @@ src/dungeon/Clockwork.inform/Build/Debug log.txt
 .docker/
 docker.env
 *.dockerignore
+
+# Large files
+*.zip
+*.gz
+*.tar
+*.rar
+games/*.ulx
+games/*.z8
+*.glulx
